@@ -12,6 +12,7 @@
 .link {
 	text-decoration: none;
 	color: black;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
 #sushi, #beef, #chicken {
