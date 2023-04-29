@@ -1,0 +1,38 @@
+.main-content {
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+#header-nav {
+	background-color: #cccc00;
+	border-radius: 0;
+	border: 0;
+}
+
+.link {
+	text-decoration: none;
+	color: black;
+}
+
+#sushi, #beef, #chicken {
+  border: 2px solid black;
+  padding: 5px;
+  background-color: #993333;
+  margin-bottom: 20px;
+
+}
+
+#sushi-text, #beef-text, #chicken-text {
+  color: #e6e6e6;
+}
+
+#menu-item-text {
+  color: #e6e6e6;
+}
+
+#nav-list {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: black;
+}
+
+ 
